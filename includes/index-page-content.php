@@ -6,7 +6,8 @@
         <div class="breather">
             <p>Use the links below to navigate between prototypes:</p>
             <ul>
-                <li>Discovery details page showing <a href="../laurence-victor-lincoln.php">related records</a></li>
+                <li><a href="../laurence-victor-lincoln.php">Laurence Victor Lincoln</a></li>
+                <li><a href="../george-f-cantley-saunders.php">George Cantley Saunders</a></li>
             </ul>
         </div>
     </div>
