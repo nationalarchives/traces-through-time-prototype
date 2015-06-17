@@ -335,4 +335,7 @@
             </div>
             <input id="Hash" name="Hash" type="hidden" value=""></form>
     </div>
+    <div class="separator-illusion"></div>
+    <?php require_once 'related-records-widget.php'; ?>
+
 </section>
