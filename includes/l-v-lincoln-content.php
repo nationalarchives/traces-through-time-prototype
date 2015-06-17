@@ -310,6 +310,6 @@
             <input id="Hash" name="Hash" type="hidden" value=""></form>
     </div>
         <div class="separator-illusion"></div>
-        <?php $rr = new TracesThroughTime\RelatedRecord('Name Lincoln, Laurence Victor Rank or Rating: Able Seaman Service Number(s):...', 98, 'laurence-victor-lincoln.php'); ?>
+        <?php $rr = new TracesThroughTime\RelatedRecord('Name Lincoln, Laurence Victor Rank or Rating: Able Seaman Service Number(s):...', 95, 'laurence-victor-lincoln.php'); ?>
         <?php require_once 'related-records-widget.php'; ?>
 </section>
