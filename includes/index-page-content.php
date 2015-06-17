@@ -6,7 +6,7 @@
         <div class="breather">
             <p>Use the links below to navigate between prototypes:</p>
             <ul>
-                <li>Discovery details page showing <a href="../details-page.php">related records</a></li>
+                <li>Discovery details page showing <a href="../laurence-victor-lincoln.php">related records</a></li>
             </ul>
         </div>
     </div>

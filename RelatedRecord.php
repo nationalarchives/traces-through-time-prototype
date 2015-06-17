@@ -14,11 +14,24 @@ class RelatedRecord {
     private $disclaimer = "This link has been system generated to aid research. Please note we cannot guarantee it is the same individual.";
     private $linkText;
     private $percentage;
+    private $linkedDocument;
 
-    function __construct($linkText = "Default link text - no text provided to constructor", $percentage = 0)
+    function __construct(
+        $linkText = "Default link text - no text provided to constructor",
+        $percentage = 0,
+        $linkedDocument = "Default - linked document not provided to constructor")
     {
         $this->linkText = $linkText;
         $this->percentage = $percentage;
+        $this->linkedDocument = $linkedDocument;
+    }
+
+    /**
+     * @return string
+     */
+    public function getLinkedDocument()
+    {
+        return $this->linkedDocument;
     }
 
     /**
@@ -30,7 +43,7 @@ class RelatedRecord {
     }
 
     public function printPercentage(){
-        echo $this->getPercentage() . '%';
+        echo $this->getPercentage() . '% similarity';
     }
 
     /**
@@ -41,8 +54,9 @@ class RelatedRecord {
         return $this->linkText;
     }
 
-    public function printLinkText(){
-        echo $this->getLinkText();
+    public function printLink(){
+        $format = "<a href='%s'>%s<a>";
+        printf($format, $this->getLinkedDocument(), $this->getLinkText());
     }
 
     /**
