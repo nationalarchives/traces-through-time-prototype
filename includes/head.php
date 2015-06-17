@@ -1,5 +1,7 @@
-<?php require_once('constants.php'); ?>
-<?php require_once('functions.php'); ?>
+<?php
+require_once('constants.php');
+require_once('functions.php');
+?>
 <head>
     <meta charset="utf-8">
     <title>Record copying prototype | The National Archives</title>
