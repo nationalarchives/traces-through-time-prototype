@@ -1,10 +1,3 @@
-<?php
-
-require_once('RelatedRecord.php');
-use TracesThroughTime\RelatedRecord;
-
-?>
-
 <!DOCTYPE html>
 <html lang="en-gb">
 <?php require_once('includes/head.php'); ?>

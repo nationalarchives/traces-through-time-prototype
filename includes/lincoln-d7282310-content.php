@@ -335,8 +335,8 @@
             </div>
             <input id="Hash" name="Hash" type="hidden" value=""></form>
     </div>
+
     <div class="separator-illusion"></div>
-    <?php $rr = new TracesThroughTime\RelatedRecord('Name Lincoln, L V Date of Birth: 31 May 1898', 95, 'lincoln-d8284704.php'); ?>
     <?php require_once 'related-records-widget.php'; ?>
 
 </section>
