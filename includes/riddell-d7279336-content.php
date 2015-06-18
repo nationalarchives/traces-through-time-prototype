@@ -1,15 +1,23 @@
 <section class="row">
     <div class="col starts-at-full ends-at-two-thirds clr holding-box">
         <div class="breather">
-            <h1 class="inline">Name Lincoln, Laurence Victor Rank or Rating: Able Seaman Service Number(s):...</h1>
+            <h1 class="inline">Name Riddell, David Rank or Rating: 1st Class Stoker Service Number(s): ...</h1>
+
+
             <!-- display own order option and image viewer if available -->
             <div class="order-option-wrapper">
+
+
                 <section class="order-option-main breather">
+
+
                     <h2 class="inline">
                         Order and viewing options
                     </h2>
 
                     <div class="order-option-description">
+
+
                         <ul id="orderInformation">
                             <li id="price"><h3>£3.30</h3></li>
                             <li id="format">Download size approximately 0.5 MB</li>
@@ -18,7 +26,7 @@
                     <div class="order-buttons">
                         <ul>
                             <span id="recordAddedToBasket" class="emphasisBlock"></span>
-                            <a href="/details/addtobasket/D7282310" class="discoveryPrimaryCallToActionLink"
+                            <a href="/details/addtobasket/D7279336" class="discoveryPrimaryCallToActionLink"
                                data-webtrends-call="addToBasket">Add to basket</a>
                         </ul>
                     </div>
@@ -28,6 +36,8 @@
                         <ul>
                             <li><a href="http://nationalarchives.gov.uk/visit/times.htm/">See our opening times</a></li>
                         </ul>
+
+
                     </section>
                 </section>
                 <br>
@@ -55,12 +65,13 @@
                 To download a high-resolution, complete record, please add to your basket.
             </div>
 
+
             <table class="asset-details">
-                <caption>Details of ADM 339/1/22545</caption>
+                <caption>Details of ADM 339/3/1416</caption>
                 <tbody>
                 <tr>
                     <th scope="row">Reference:</th>
-                    <td>ADM 339/1/22545</td>
+                    <td>ADM 339/3/1416</td>
                 </tr>
 
 
@@ -71,19 +82,19 @@
                             <tbody>
                             <tr class="medalRow">
                                 <td class="medalplain" width="40%">Name</td>
-                                <td class="medalplain" width="40%">Lincoln, Laurence Victor</td>
+                                <td class="medalplain" width="40%">Riddell, David</td>
                             </tr>
                             <tr class="medalRow">
                                 <td class="medalheader"> Rank or Rating:</td>
-                                <td class="medalplain">Able Seaman</td>
+                                <td class="medalplain">1st Class Stoker</td>
                             </tr>
                             <tr class="medalRow">
                                 <td class="medalheader"> Service Number(s):</td>
-                                <td class="medalplain">Z/3239</td>
+                                <td class="medalplain">RFR/B/3494, SS 101701</td>
                             </tr>
                             <tr class="medalRow">
                                 <td class="medalheader"> Date of Birth:</td>
-                                <td class="medalplain">31 May 1896</td>
+                                <td class="medalplain">1870-1900</td>
                             </tr>
                             </tbody>
                         </table>
@@ -122,7 +133,7 @@
                 <h3 class="inline">
                     Context of this record
                 </h3>
-                <a class="browseByReference" href="/browse/r/r/D7282310">Browse by Reference</a>
+                <a class="browseByReference" href="/browse/r/r/D7279336">Browse by Reference</a>
                 <ul>
                     <a href="/browse">All departments</a>
                     <li class="tree">
@@ -137,11 +148,11 @@
                             of Service (Microfiche Copies)</a>
                     </li>
                     <li class="tree">
-                        <a href="/browse/r/h/C10893889">ADM 339/1 - Ratings/other ranks</a>
+                        <a href="/browse/r/h/C10893891">ADM 339/3 - Officers</a>
                     </li>
                     <li class="tree">
-                        <a href="/browse/r/h/D7282310">ADM 339/1/22545 - Name Lincoln, Laurence Victor Rank or Rating:
-                            Able Seaman Service Number(s):...</a>
+                        <a href="/browse/r/h/D7279336">ADM 339/3/1416 - Name Riddell, David Rank or Rating: 1st Class
+                            Stoker Service Number(s): ...</a>
                     </li>
                 </ul>
             </div>
@@ -213,7 +224,7 @@
                                     you.</p><span><a title="Hide this message" href="#">&nbsp;</a></span></div>
 
                             <div class="tagForm">
-                                <form action="/Details/AddTag?iaid=D7282310" method="post" novalidate="novalidate">
+                                <form action="/Details/AddTag?iaid=D7279336" method="post" novalidate="novalidate">
                                     <label for="tagEntryText" class="entryLabel">Enter tag:</label>
                                     <span class="textBoxSpan"><input id="tagEntryText" name="tagEntryText" type="text"
                                                                      value=""></span>
@@ -226,7 +237,6 @@
                             </div>
                         </li>
                     </ul>
-
                     <ul id="sign-in-or-register" style="">
                         <li>
                             <p>
@@ -234,20 +244,17 @@
                                 <a href="/sign-in">sign in</a>
                                 to tag records.
                                 If you don't have an account please
-                                <a href="/register?returnUrl=%2Fdetails%2Fr%2FD7282310">register</a>.
+                                <a href="/register?returnUrl=%2Fdetails%2Fr%2FD7279336">register</a>.
                             </p>
                         </li>
                     </ul>
-
                 </div>
-
-
             </div>
         </div>
         <div class="separator-illusion">&nbsp;</div>
 
 
-        <form action="/details/r/D7282310/submitcorrection" id="suggest-a-correction-form" method="post"
+        <form action="/details/r/D7279336/submitcorrection" id="suggest-a-correction-form" method="post"
               novalidate="novalidate"><h2><span><span>Found an error?</span></span></h2>
 
             <div class="breather">
@@ -335,8 +342,7 @@
             </div>
             <input id="Hash" name="Hash" type="hidden" value=""></form>
     </div>
-    <div class="separator-illusion"></div>
-    <?php $rr = new TracesThroughTime\RelatedRecord('Name Lincoln, L V Date of Birth: 31 May 1898', 95, 'l-v-lincoln.php'); ?>
-    <?php require_once 'related-records-widget.php'; ?>
 
+    <div class="separator-illusion"></div>
+    <?php require_once 'related-records-widget.php'; ?>
 </section>
