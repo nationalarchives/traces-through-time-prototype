@@ -11,8 +11,8 @@ use TracesThroughTime\RelatedRecord;
 <body>
 <?php require_once('includes/header.php'); ?>
 <main id="page_wrap" class="container" role="main">
-    <?php require_once('includes/l-v-lincoln-breadcrumb.php'); ?>
-    <?php require_once('includes/l-v-lincoln-content.php'); ?>
+    <?php require_once('includes/lincoln-d7282310-breadcrumb.php'); ?>
+    <?php require_once('includes/lincoln-d7282310-content.php'); ?>
 </main>
 <?php require_once('includes/footer.php'); ?>
 <?php require_once('includes/footer-scripts.php'); ?>

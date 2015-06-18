@@ -6,7 +6,7 @@
         <div class="breather">
             <p>Use the links below to navigate between prototypes:</p>
 
-            <h3><a href="../laurence-victor-lincoln.php">Laurence Victor Lincoln</a></h3>
+            <h3><a href="../lincoln-d7282310.php">Laurence Victor Lincoln</a></h3>
             <table>
                 <tr>
                     <th>Reference</th>
@@ -24,7 +24,7 @@
                     <td>31 May 1898</td>
                 </tr>
             </table>
-            <h3><a href="../george-f-cantley-saunders.php">George Cantley Saunders</a></h3>
+            <h3><a href="../saunders-d7251539.php">George Cantley Saunders</a></h3>
             <table>
                 <tr>
                     <th>Reference</th>
