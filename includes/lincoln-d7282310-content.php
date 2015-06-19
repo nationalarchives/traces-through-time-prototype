@@ -337,6 +337,18 @@
     </div>
 
     <div class="separator-illusion"></div>
+    <?php
+    $temp = array(
+        'linkHref' => 'lincoln-d8284704.php',
+        'linkText' => 'Name Lincoln, L V Date of Birth: 31 May 1898',
+        'percentage' => 98
+    );
+    $r = new TracesThroughTime\Record($temp);
+
+    $rr = new \TracesThroughTime\RelatedRecords();
+    $rr->addRecord($r);
+
+    ?>
     <?php require_once 'related-records-widget.php'; ?>
 
 </section>

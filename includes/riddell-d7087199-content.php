@@ -370,5 +370,24 @@
     </div>
 
     <div class="separator-illusion"></div>
+    <?php
+    $temp = array(
+        'linkHref' => 'riddell-d7073740.php',
+        'linkText' => 'Name Riddell, David Official Number: SS108003 Place of Birth: Coalbridge,...',
+        'percentage' => 95
+    );
+    $r1 = new TracesThroughTime\Record($temp);
+
+    $temp = array(
+        'linkHref' => 'riddell-d7279336.php',
+        'linkText' => 'Name Riddell, David Rank or Rating: 1st Class Stoker Service Number(s): ...',
+        'percentage' => 95
+    );
+    $r2 = new TracesThroughTime\Record($temp);
+
+    $rr = new \TracesThroughTime\RelatedRecords();
+    $rr->addRecord($r1);
+    $rr->addRecord($r2);
+    ?>
     <?php require_once 'related-records-widget.php'; ?>
 </section>

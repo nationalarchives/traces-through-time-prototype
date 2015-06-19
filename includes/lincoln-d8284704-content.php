@@ -357,7 +357,15 @@
             <input id="Hash" name="Hash" type="hidden" value=""></form>
     </div>
     <div class="separator-illusion"></div>
-    <?php $rr = new TracesThroughTime\RelatedRecord('Name Lincoln, Laurence Victor Rank or Rating: Able Seaman Service Number(s):...',
-        95, 'lincoln-d7282310.php'); ?>
+    <?php
+    $temp = array(
+        'linkHref' => 'lincoln-d7282310.php',
+        'linkText' => 'Name Lincoln, Laurence Victor Rank or Rating: Able Seaman Service Number(s):...',
+        'percentage' => 98
+    );
+    $r = new \TracesThroughTime\Record($temp);
+    $rr = new TracesThroughTime\RelatedRecords();
+    $rr->addRecord($r);
+    ?>
     <?php require_once 'related-records-widget.php'; ?>
 </section>

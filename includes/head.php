@@ -1,6 +1,12 @@
 <?php
 require_once('constants.php');
 require_once('functions.php');
+
+require_once('RelatedRecords.php');
+require_once('Record.php');
+use TracesThroughTime\RelatedRecords;
+use TracesThroughTime\Record;
+
 ?>
 <head>
     <meta charset="utf-8">

@@ -356,7 +356,17 @@
     </div>
 
     <div class="separator-illusion"></div>
-    <?php $rr = new TracesThroughTime\RelatedRecord('Name Saunders, George F Cantley Service Number(s): Z/2482 ... Rank or...',
-        95, 'saunders-d7251539.php'); ?>
+    <?php
+    $temp = array(
+        'linkHref' => 'saunders-d7251539.php',
+        'linkText' => 'Name Saunders, George F Cantley Service Number(s): Z/2482 ... Rank or...',
+        'percentage' => 95
+    );
+
+    $r = new TracesThroughTime\Record($temp);
+
+    $rr = new \TracesThroughTime\RelatedRecords();
+    $rr->addRecord($r);
+    ?>
     <?php require_once 'related-records-widget.php'; ?>
 </section>
