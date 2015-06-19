@@ -6,6 +6,7 @@
                     <h4>
                         The National Archives <br>Kew, Richmond, Surrey, <br>TW9 4DU
                     </h4>
+
                     <p>
                         Tel: +44 (0) 20 8876 3444
                     </p>
@@ -114,6 +115,7 @@
                     <h4>
                         Latest Flickr image
                     </h4>
+
                     <p class="caption" id="flickr-caption">Art class at a Junior School in Holloway, 1939-1945 (<a
                             href="https://www.flickr.com/photos/nationalarchives/14770698118/"
                             title="External website - opens in new window" target="_blank">INF 2/43 (1931)</a>)</p>
@@ -151,4 +153,4 @@
             </div>
         </div>
         <h3>Jump to any page</h3>
-        <?php scanFiles(); ?>
+<?php scanFiles(); ?>

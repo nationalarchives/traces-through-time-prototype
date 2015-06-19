@@ -1,33 +1,55 @@
 <section class="row">
     <div class="col starts-at-full ends-at-two-thirds clr holding-box">
         <div class="breather">
-            <h1 class="inline">Name Lincoln, Laurence Victor Rank or Rating: Able Seaman Service Number(s):...</h1>
+            <h1 class="inline">Name Lincoln, L V Date of Birth: 31 May 1898</h1>
+
+
             <!-- display own order option and image viewer if available -->
             <div class="order-option-wrapper">
+
+
                 <section class="order-option-main breather">
+
+
                     <h2 class="inline">
                         Order and viewing options
                     </h2>
 
                     <div class="order-option-description">
+
+
                         <ul id="orderInformation">
                             <li id="price"><h3>£3.30</h3></li>
-                            <li id="format">Download size approximately 0.5 MB</li>
+                            <li id="format">Download size approximately 0 MB</li>
                         </ul>
+
+
                     </div>
                     <div class="order-buttons">
+
+
                         <ul>
                             <span id="recordAddedToBasket" class="emphasisBlock"></span>
-                            <a href="/details/addtobasket/D7282310" class="discoveryPrimaryCallToActionLink"
+                            <a href="/details/addtobasket/D8284704" class="discoveryPrimaryCallToActionLink"
                                data-webtrends-call="addToBasket">Add to basket</a>
                         </ul>
+
+
                     </div>
+
                 </section>
+
+
                 <section class="supplemental-content breather" style="display: none;">
+
                     <section>
+
+
                         <ul>
                             <li><a href="http://nationalarchives.gov.uk/visit/times.htm/">See our opening times</a></li>
                         </ul>
+
+
                     </section>
                 </section>
                 <br>
@@ -55,12 +77,13 @@
                 To download a high-resolution, complete record, please add to your basket.
             </div>
 
+
             <table class="asset-details">
-                <caption>Details of ADM 339/1/22545</caption>
+                <caption>Details of AIR 76/300/70</caption>
                 <tbody>
                 <tr>
                     <th scope="row">Reference:</th>
-                    <td>ADM 339/1/22545</td>
+                    <td>AIR 76/300/70</td>
                 </tr>
 
 
@@ -70,20 +93,12 @@
                         <table>
                             <tbody>
                             <tr class="medalRow">
-                                <td class="medalplain" width="40%">Name</td>
-                                <td class="medalplain" width="40%">Lincoln, Laurence Victor</td>
-                            </tr>
-                            <tr class="medalRow">
-                                <td class="medalheader"> Rank or Rating:</td>
-                                <td class="medalplain">Able Seaman</td>
-                            </tr>
-                            <tr class="medalRow">
-                                <td class="medalheader"> Service Number(s):</td>
-                                <td class="medalplain">Z/3239</td>
+                                <td class="medalplain" width="20%">Name</td>
+                                <td class="medalplain" width="20%">Lincoln, L V</td>
                             </tr>
                             <tr class="medalRow">
                                 <td class="medalheader"> Date of Birth:</td>
-                                <td class="medalplain">31 May 1896</td>
+                                <td class="medalplain">31 May 1898</td>
                             </tr>
                             </tbody>
                         </table>
@@ -94,7 +109,7 @@
                 <tr>
                     <th scope="row">Date:</th>
                     <td>
-                        1914-1919
+                        [1918-1919]
                     </td>
                 </tr>
 
@@ -106,6 +121,14 @@
                     </td>
                 </tr>
 
+                <tr>
+                    <th scope="row">
+                        Former reference in its original department
+                    </th>
+                    <td>
+                        Book No.142 part 2
+                    </td>
+                </tr>
                 <tr>
                     <th scope="row">Legal status:</th>
                     <td>
@@ -122,26 +145,26 @@
                 <h3 class="inline">
                     Context of this record
                 </h3>
-                <a class="browseByReference" href="/browse/r/r/D7282310">Browse by Reference</a>
+                <a class="browseByReference" href="/browse/r/r/D8284704">Browse by Reference</a>
                 <ul>
                     <a href="/browse">All departments</a>
                     <li class="tree">
-                        <a href="/browse/r/h/C4">ADM - Records of the Admiralty, Naval Forces, Royal Marines,
-                            Coastguard, and related bodies</a>
+                        <a href="/browse/r/h/C8">AIR - Records created or inherited by the Air Ministry, the Royal Air
+                            Force, and related bodies</a>
                     </li>
                     <li class="tree">
-                        <a href="/browse/r/h/C728">Records of Service</a>
+                        <a href="/browse/r/h/C955">Records of the Department of the Master General of Personnel and the
+                            Air Member for Personnel</a>
                     </li>
                     <li class="tree">
-                        <a href="/browse/r/h/C15486">ADM 339 - Admiralty and War Office: Royal Naval Division: Records
-                            of Service (Microfiche Copies)</a>
+                        <a href="/browse/r/h/C2130">AIR 76 - Air Ministry: Department of the Master-General of
+                            Personnel: Officers' Service Records</a>
                     </li>
                     <li class="tree">
-                        <a href="/browse/r/h/C10893889">ADM 339/1 - Ratings/other ranks</a>
+                        <a href="/browse/r/h/C510418">AIR 76/300 - Lightbourn, Gilbert - Linfield, E</a>
                     </li>
                     <li class="tree">
-                        <a href="/browse/r/h/D7282310">ADM 339/1/22545 - Name Lincoln, Laurence Victor Rank or Rating:
-                            Able Seaman Service Number(s):...</a>
+                        <a href="/browse/r/h/D8284704">AIR 76/300/70 - Name Lincoln, L V Date of Birth: 31 May 1898</a>
                     </li>
                 </ul>
             </div>
@@ -178,7 +201,6 @@
                 </ul>
             </div>
 
-
         </div>
     </div>
     <div class="col starts-at-full ends-at-one-third clr holding-box">
@@ -201,7 +223,6 @@
                     </ul>
                 </div>
 
-
                 <div class="add-tag ">
                     <ul id="add-tag-list" style="display:none;">
                         <li>
@@ -213,7 +234,7 @@
                                     you.</p><span><a title="Hide this message" href="#">&nbsp;</a></span></div>
 
                             <div class="tagForm">
-                                <form action="/Details/AddTag?iaid=D7282310" method="post" novalidate="novalidate">
+                                <form action="/Details/AddTag?iaid=D8284704" method="post" novalidate="novalidate">
                                     <label for="tagEntryText" class="entryLabel">Enter tag:</label>
                                     <span class="textBoxSpan"><input id="tagEntryText" name="tagEntryText" type="text"
                                                                      value=""></span>
@@ -234,7 +255,7 @@
                                 <a href="/sign-in">sign in</a>
                                 to tag records.
                                 If you don't have an account please
-                                <a href="/register?returnUrl=%2Fdetails%2Fr%2FD7282310">register</a>.
+                                <a href="/register?returnUrl=%2Fdetails%2Fr%2FD8284704">register</a>.
                             </p>
                         </li>
                     </ul>
@@ -247,7 +268,7 @@
         <div class="separator-illusion">&nbsp;</div>
 
 
-        <form action="/details/r/D7282310/submitcorrection" id="suggest-a-correction-form" method="post"
+        <form action="/details/r/D8284704/submitcorrection" id="suggest-a-correction-form" method="post"
               novalidate="novalidate"><h2><span><span>Found an error?</span></span></h2>
 
             <div class="breather">
@@ -336,7 +357,15 @@
             <input id="Hash" name="Hash" type="hidden" value=""></form>
     </div>
     <div class="separator-illusion"></div>
-    <?php $rr = new TracesThroughTime\RelatedRecord('Name Lincoln, L V Date of Birth: 31 May 1898', 95, 'l-v-lincoln.php'); ?>
+    <?php
+    $temp = array(
+        'linkHref' => 'lincoln-d7282310.php',
+        'linkText' => 'Name Lincoln, Laurence Victor Rank or Rating: Able Seaman Service Number(s):...',
+        'percentage' => 98
+    );
+    $r = new \TracesThroughTime\Record($temp);
+    $rr = new TracesThroughTime\RelatedRecords();
+    $rr->addRecord($r);
+    ?>
     <?php require_once 'related-records-widget.php'; ?>
-
 </section>
