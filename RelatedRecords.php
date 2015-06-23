@@ -3,7 +3,7 @@
 namespace TracesThroughTime;
 
 class RelatedRecords {
-    const INITIAL_TEXT = "The following record(s) may related to an individual mentioned in this description. The percentage shows the degrees of similarity.";
+    const INITIAL_TEXT = "The following record(s) may be related to an individual mentioned in this description. The percentage shows the degrees of similarity.";
     const CLOSING_TEXT = "This link has been system generated to aid research. We cannot guarantee it is the same individual.";
     private $records;
 
