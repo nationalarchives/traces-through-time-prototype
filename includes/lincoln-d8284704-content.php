@@ -1,7 +1,11 @@
+<?php
+$name = "Lincoln, L V";
+?>
+
 <section class="row">
     <div class="col starts-at-full ends-at-two-thirds clr holding-box">
         <div class="breather">
-            <h1 class="inline">Name Lincoln, L V Date of Birth: 31 May 1898</h1>
+            <h1 class="inline">Name <?php echo $name ?> Date of Birth: 31 May 1898</h1>
 
 
             <!-- display own order option and image viewer if available -->
@@ -359,6 +363,7 @@
     <div class="separator-illusion"></div>
     <?php
     $temp = array(
+        'title' => $name,
         'linkHref' => 'lincoln-d7282310.php',
         'linkText' => 'Name Lincoln, Laurence Victor Rank or Rating: Able Seaman Service Number(s):...',
         'percentage' => 98

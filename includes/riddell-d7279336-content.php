@@ -1,7 +1,11 @@
+<?php
+$name = "Riddell, David";
+?>
+
 <section class="row">
     <div class="col starts-at-full ends-at-two-thirds clr holding-box">
         <div class="breather">
-            <h1 class="inline">Name Riddell, David Rank or Rating: 1st Class Stoker Service Number(s): ...</h1>
+            <h1 class="inline">Name <?php echo $name; ?> Rank or Rating: 1st Class Stoker Service Number(s): ...</h1>
 
 
             <!-- display own order option and image viewer if available -->
@@ -346,6 +350,7 @@
     <div class="separator-illusion"></div>
     <?php
     $temp = array(
+        'title' => $name,
         'linkHref' => 'riddell-d7073740.php',
         'linkText' => 'Name Riddell, David Official Number: SS108003 Place of Birth: Coalbridge,...',
         'percentage' => 95
@@ -353,6 +358,7 @@
     $r1 = new TracesThroughTime\Record($temp);
 
     $temp = array(
+        'title' => $name,
         'linkHref' => 'riddell-d7087199.php',
         'linkText' => 'Name Riddell, David Official Number: SS101701 Place of Birth: Liverpool,...',
         'percentage' => 95

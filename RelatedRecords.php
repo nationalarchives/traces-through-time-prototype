@@ -3,8 +3,8 @@
 namespace TracesThroughTime;
 
 class RelatedRecords {
-    const INITIAL_TEXT = "The following record(s) may be related to an individual mentioned in this description. The percentage shows the degrees of similarity.";
-    const CLOSING_TEXT = "This link has been system generated to aid research. We cannot guarantee it is the same individual.";
+    const INITIAL_TEXT = "The following record(s) may be related to the individual mentioned in this description. The percentage shows the likelihood it is a match. We cannot guarantee it is the same individual.";
+    const CLOSING_TEXT = "This automatic tool only finds possible matches across certain records.";
     private $records;
 
     /**
@@ -19,9 +19,15 @@ class RelatedRecords {
         foreach ($this->records as $r) {
             $r->printRecord();
         }
-
     }
 
+    public function printTitle(){
+        foreach ($this->records as $r) {
+            $r->printTitle();
+            break;
+        }
+
+    }
 
     public function printInitialText()
     {
