@@ -1,7 +1,11 @@
+<?php
+$name = "Saunders, George F Cantley";
+?>
+
 <section class="row">
     <div class="col starts-at-full ends-at-two-thirds clr holding-box">
         <div class="breather">
-            <h1 class="inline">Name Saunders, George F Cantley Service Number(s): Z/2482 ... Rank or...</h1>
+            <h1 class="inline">Name <?php echo $name; ?> Service Number(s): Z/2482 ... Rank or...</h1>
 
 
             <!-- display own order option and image viewer if available -->
@@ -362,6 +366,7 @@
     <?php
 
     $temp = array(
+        'title' => $name,
         'linkHref' => 'saunders-d8223672.php',
         'linkText' => 'Name Saunders, George Frederick Cautley',
         'percentage' => 95
