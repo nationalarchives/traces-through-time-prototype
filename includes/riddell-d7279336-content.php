@@ -350,7 +350,6 @@ $name = "Riddell, David";
     <div class="separator-illusion"></div>
     <?php
     $temp = array(
-        'title' => $name,
         'linkHref' => 'riddell-d7073740.php',
         'linkText' => 'Name Riddell, David Official Number: SS108003 Place of Birth: Coalbridge,...',
         'percentage' => 95
