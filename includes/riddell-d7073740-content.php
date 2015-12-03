@@ -376,7 +376,6 @@ $name = "Riddell, David";
     <div class="separator-illusion"></div>
     <?php
     $temp = array(
-        'title' => $name,
         'linkHref' => 'riddell-d7279336.php',
         'linkText' => 'Name Riddell, David Rank or Rating: 1st Class Stoker Service Number(s): ...',
         'percentage' => 95
