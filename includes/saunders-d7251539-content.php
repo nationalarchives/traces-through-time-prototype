@@ -366,7 +366,6 @@ $name = "Saunders, George F Cantley";
     <?php
 
     $temp = array(
-        'title' => $name,
         'linkHref' => 'saunders-d8223672.php',
         'linkText' => 'Name Saunders, George Frederick Cautley',
         'percentage' => 95

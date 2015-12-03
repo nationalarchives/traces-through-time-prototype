@@ -344,7 +344,6 @@ $name = "Lincoln, Laurence Victor";
     <?php
 
     $temp = array(
-        'title' => $name,
         'linkHref' => 'lincoln-d8284704.php',
         'linkText' => 'Name Lincoln, L V Date of Birth: 31 May 1898',
         'percentage' => 98

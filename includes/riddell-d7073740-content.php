@@ -384,7 +384,6 @@ $name = "Riddell, David";
     $r1 = new TracesThroughTime\Record($temp);
 
     $temp = array(
-        'title' => $name,
         'linkHref' => 'riddell-d7087199.php',
         'linkText' => 'Name Riddell, David Official Number: SS101701 Place of Birth: Liverpool,...',
         'percentage' => 95

@@ -362,7 +362,6 @@ $name = "Saunders, George Fredrick Cautley";
     <div class="separator-illusion"></div>
     <?php
     $temp = array(
-        'title' => $name,
         'linkHref' => 'saunders-d7251539.php',
         'linkText' => 'Name Saunders, George F Cantley Service Number(s): Z/2482 ... Rank or...',
         'percentage' => 95
