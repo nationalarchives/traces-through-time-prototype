@@ -21,14 +21,6 @@ class RelatedRecords {
         }
     }
 
-    public function printTitle(){
-        foreach ($this->records as $r) {
-            $r->printTitle();
-            break;
-        }
-
-    }
-
     public function printInitialText()
     {
         printf("<p>%s</p>", self::INITIAL_TEXT);

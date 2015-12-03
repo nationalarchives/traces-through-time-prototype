@@ -384,7 +384,6 @@ $name = "Riddell, David";
     $r1 = new TracesThroughTime\Record($temp);
 
     $temp = array(
-        'title' => $name,
         'linkHref' => 'riddell-d7279336.php',
         'linkText' => 'Name Riddell, David Rank or Rating: 1st Class Stoker Service Number(s): ...',
         'percentage' => 95
